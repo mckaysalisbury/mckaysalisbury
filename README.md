@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* [Website](http://mckaysalisbury.com/)
+* [Blog](https://blog.mckaysalisbury.com/)
+
 <!--
 **mckaysalisbury/mckaysalisbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
