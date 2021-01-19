@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, and welcome to McKay Salisbury's Github
 
 * [Website](http://mckaysalisbury.com/)
 * [Blog](https://blog.mckaysalisbury.com/)
